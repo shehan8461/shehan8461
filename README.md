@@ -17,7 +17,7 @@
 
 - 🎓 **BSc (Hons) Software Engineering Undergraduate** at **Sri Lanka Institute of Information Technology (SLIIT)**
 - 💼 **Software Developer** at **Sun System Technologies & Developers (Pvt) Ltd**
-- 🧑‍💻 **1+ year freelance experience** in MERN stack development
+- 🧑‍💻 **3+ year freelance experience** in MERN stack development
 - 🌱 Currently working with **React, Angular, .NET Core, Node.js, MongoDB, SQL**
 - 🎯 Strong focus on **Frontend Development & UI/UX Design**
 - 📫 Reach me at **shehansalitha1999@gmail.com**
