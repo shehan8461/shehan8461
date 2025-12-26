@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm W.P. Shehan Salitha Dilshan</h1>
+<h1 align="center">Hi 👋, I'm Shehan Salitha </h1>
 <h3 align="center">Full Stack Software Engineer | MERN & .NET | UI/UX Focused</h3>
 
 <p align="center">
