@@ -32,7 +32,7 @@ Experienced in delivering real-world solutions using **MERN stack**, **.NET Core
 Passionate about building **clean, responsive, and user-friendly interfaces** with attention to usability and performance
 
 🛠️ **Technical Expertise**  
-React, Angular, Node.js, Express, .NET Core, MongoDB, MySQL, MS SQL, Firebase, Docker
+React, Angular, Node.js, Express, .NET Core, MongoDB, MySQL, MS SQL, Firebase, Docker, Python
 
 🚀 **Project Experience**  
 Worked on **ERP systems, management platforms, analytics dashboards, and mobile applications**, handling everything from **requirement analysis and UI design** to **backend development and deployment**
