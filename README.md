@@ -3,9 +3,10 @@
 
 <p align="center">
   <a href="https://shein-freelanzeer.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Shehan’s%20Freelancing%20Hub-blue?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=vercel" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/shehan-salitha-6a9b852a7" target="_blank">
