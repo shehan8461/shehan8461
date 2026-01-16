@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Shehan Salitha </h1>
+<h1 align="center">Hi 👋, I'm Shehan Salitha</h1>
 <h3 align="center">Full Stack Software Engineer | MERN & .NET | UI/UX Focused</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shehan8461&label=Profile%20views&color=0e75b6&style=flat" alt="shehan8461" />
+  <a href="https://shein-freelanzeer.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Shehan’s%20Freelancing%20Hub-blue?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
-
-
 
 <p align="center">
   <a href="https://linkedin.com/in/shehan-salitha-6a9b852a7" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" 
-         alt="LinkedIn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
