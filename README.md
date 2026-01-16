@@ -30,7 +30,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.facebook.com/" target="_blank">
+  <a href="https://www.facebook.com/shehansalitha1999/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
   </a>
   <a href="https://www.instagram.com/" target="_blank">
