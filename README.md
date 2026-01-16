@@ -19,12 +19,27 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **BSc (Hons) Software Engineering Undergraduate** at **Sri Lanka Institute of Information Technology (SLIIT)**
-- 💼 **Software Developer** at **Sun System Technologies & Developers (Pvt) Ltd**
-- 🧑‍💻 **3+ year freelance experience** in MERN stack development
-- 🌱 Currently working with **React, Angular, .NET Core, Node.js, MongoDB, SQL**
-- 🎯 Strong focus on **Frontend Development & UI/UX Design**
-- 📫 Reach me at **shehansalitha1999@gmail.com**
+🎓 **Undergraduate Software Engineer**  
+BSc (Hons) in Software Engineering at **Sri Lanka Institute of Information Technology (SLIIT)**
+
+💼 **Software Developer**  
+Currently working at **Sun System Technologies & Developers (Pvt) Ltd**
+
+🧑‍💻 **Freelance Full Stack Developer (3+ Years)**  
+Experienced in delivering real-world solutions using **MERN stack**, **.NET Core**, and **Angular**
+
+🎨 **Frontend & UI/UX Focused**  
+Passionate about building **clean, responsive, and user-friendly interfaces** with attention to usability and performance
+
+🛠️ **Technical Expertise**  
+React, Angular, Node.js, Express, .NET Core, MongoDB, MySQL, MS SQL, Firebase, Docker
+
+🚀 **Project Experience**  
+Worked on **ERP systems, management platforms, analytics dashboards, and mobile applications**, handling everything from **requirement analysis and UI design** to **backend development and deployment**
+
+🎯 **Career Goal**  
+Continuously learning modern technologies and best practices with the aim of growing into a **Senior Software Engineer / Solution Architect**
+
 
 ---
 
