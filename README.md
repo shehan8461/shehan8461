@@ -67,7 +67,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehan8461&show_icons=true&count_private=true&cache_seconds=1800" />
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shehan8461&show_icons=true" />
 </p>
 
 <p align="center">
