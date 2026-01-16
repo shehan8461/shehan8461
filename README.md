@@ -66,14 +66,15 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehan8461&show_icons=true&locale=en&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shehan8461&show_icons=true&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehan8461&show_icons=true&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehan8461&layout=compact&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan8461" />
+  <img src="https://streak-stats.demolab.com/?user=shehan8461" />
 </p>
+
