@@ -62,19 +62,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shehan8461&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehan8461&layout=compact&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shehan8461" />
-</p>
 
