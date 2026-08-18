@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 **Undergraduate Software Engineer**  
+🎓 **Software Engineer**  
 BSc (Hons) in Software Engineering at **Sri Lanka Institute of Information Technology (SLIIT)**
 
 💼 **Software Developer**  
