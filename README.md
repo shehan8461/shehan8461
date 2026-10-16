@@ -25,9 +25,6 @@ BSc (Hons) in Software Engineering at **Sri Lanka Institute of Information Techn
 💼 **Software Developer**  
 Currently working at **Sun System Technologies & Developers (Pvt) Ltd**
 
-🧑‍💻 **Freelance Full Stack Developer (3+ Years)**  
-Experienced in delivering real-world solutions using **MERN stack**, **.NET Core**, and **Angular**
-
 🎨 **Frontend & UI/UX Focused**  
 Passionate about building **clean, responsive, and user-friendly interfaces** with attention to usability and performance
 
