@@ -124,7 +124,7 @@ Business websites, management platforms, dashboards, and e-commerce applications
   <a href="https://linkedin.com/in/shehan-salitha-6a9b852a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://shein-freelanzer.vercel.app/" target="_blank">
+  <a href="https://shein-freelanzeer.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Explore-FFA11D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
