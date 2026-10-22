@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Software Engineering Graduate / Professional**  
+🎓 **Software Engineering Graduate**  
 BSc (Hons) in Software Engineering — Sri Lanka Institute of Information Technology (SLIIT).
 
 💼 **Software Engineer**  
